@@ -1,0 +1,21 @@
+persona_id,name,status,completed,turns_run,turns_recorded,covered_topics_count,facts_count,timeline_count,flags_count
+P001,María Elena García,completed,True,6,13,6,44,9,27
+P002,Abdulrahman Al-Sayed,completed,True,6,13,5,42,7,21
+P003,Asha Nair,completed,True,6,13,6,40,20,31
+P004,Kenji Watanabe,completed,True,6,13,6,42,9,24
+P005,Zanele Dlamini,completed,True,6,13,8,40,13,30
+P006,Helena Kowalska,completed,True,6,13,5,48,10,29
+P007,Samuel Adeyemi,completed,True,6,13,7,36,14,28
+P008,Linh Trần,completed,True,6,13,7,36,11,18
+P009,Evelyn Thompson,completed,True,6,13,6,41,13,33
+P010,Hassan El-Masri,completed,True,6,13,5,33,15,32
+P011,Nina Petrova,completed,True,6,13,4,43,11,29
+P012,Moses Kiplagat,completed,True,6,13,7,41,10,26
+P013,Farah Rahimi,completed,True,6,13,6,44,8,24
+P014,George Papadopoulos,completed,True,6,13,7,39,14,36
+P015,Mei Ling Chan,completed,True,6,13,6,40,11,24
+P016,Patrick O'Rourke,completed,True,6,13,5,43,14,34
+P017,Sofía Ionescu,completed,True,6,13,6,51,11,28
+P018,Tane Mahuta,completed,True,6,13,5,47,13,32
+P019,Amina Yusuf,completed,True,6,13,7,39,14,34
+P020,Jean-Luc Moreau,completed,True,6,13,5,54,16,36

@@ -1,0 +1,210 @@
+{
+  "total_personas": 20,
+  "completed_interviews": 20,
+  "max_turns_reached": 0,
+  "error_count": 0,
+  "model": "gpt-5.2",
+  "max_turns": 6,
+  "rows": [
+    {
+      "persona_id": "P001",
+      "name": "María Elena García",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 6,
+      "flags_count": 27
+    },
+    {
+      "persona_id": "P002",
+      "name": "Abdulrahman Al-Sayed",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 5,
+      "flags_count": 21
+    },
+    {
+      "persona_id": "P003",
+      "name": "Asha Nair",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 6,
+      "flags_count": 31
+    },
+    {
+      "persona_id": "P004",
+      "name": "Kenji Watanabe",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 6,
+      "flags_count": 24
+    },
+    {
+      "persona_id": "P005",
+      "name": "Zanele Dlamini",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 8,
+      "flags_count": 30
+    },
+    {
+      "persona_id": "P006",
+      "name": "Helena Kowalska",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 5,
+      "flags_count": 29
+    },
+    {
+      "persona_id": "P007",
+      "name": "Samuel Adeyemi",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 7,
+      "flags_count": 28
+    },
+    {
+      "persona_id": "P008",
+      "name": "Linh Trần",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 7,
+      "flags_count": 18
+    },
+    {
+      "persona_id": "P009",
+      "name": "Evelyn Thompson",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 6,
+      "flags_count": 33
+    },
+    {
+      "persona_id": "P010",
+      "name": "Hassan El-Masri",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 5,
+      "flags_count": 32
+    },
+    {
+      "persona_id": "P011",
+      "name": "Nina Petrova",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 4,
+      "flags_count": 29
+    },
+    {
+      "persona_id": "P012",
+      "name": "Moses Kiplagat",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 7,
+      "flags_count": 26
+    },
+    {
+      "persona_id": "P013",
+      "name": "Farah Rahimi",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 6,
+      "flags_count": 24
+    },
+    {
+      "persona_id": "P014",
+      "name": "George Papadopoulos",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 7,
+      "flags_count": 36
+    },
+    {
+      "persona_id": "P015",
+      "name": "Mei Ling Chan",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 6,
+      "flags_count": 24
+    },
+    {
+      "persona_id": "P016",
+      "name": "Patrick O'Rourke",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 5,
+      "flags_count": 34
+    },
+    {
+      "persona_id": "P017",
+      "name": "Sofía Ionescu",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 6,
+      "flags_count": 28
+    },
+    {
+      "persona_id": "P018",
+      "name": "Tane Mahuta",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 5,
+      "flags_count": 32
+    },
+    {
+      "persona_id": "P019",
+      "name": "Amina Yusuf",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 7,
+      "flags_count": 34
+    },
+    {
+      "persona_id": "P020",
+      "name": "Jean-Luc Moreau",
+      "completed": true,
+      "status": "completed",
+      "turns_run": 6,
+      "turns_recorded": 13,
+      "covered_topics_count": 5,
+      "flags_count": 36
+    }
+  ]
+}
