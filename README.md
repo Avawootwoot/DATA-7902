@@ -17,7 +17,7 @@ Traceability: Implements citation mapping between the final biography and the in
 # System Architecture
 The system consists of three core pillars:
 
-Dialogue Manager: Powered by LLAMA-3 / GPT-4o-mini, handling multi-turn conversation logic and memory buffering.
+Dialogue Manager: Powered by OpenAI GPT-5.2, handling multi-turn conversation logic and memory buffering.
 
 Grounding Module: A FAISS vector store that indexes interview segments to prevent hallucinations.
 
